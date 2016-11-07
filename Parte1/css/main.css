@@ -18,5 +18,12 @@ div{
     height: 100px;
     
 }
+.padre{
+    width: 800px;
+    height: 500px;
+    border: 1px solid blue;
+    
+    
+}
 
 /* Pon tu código css aqui */

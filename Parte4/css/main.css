@@ -16,10 +16,24 @@ background-color: yellow;
 div{
     width: 200px;
     height: 100px;
-    float: right;
+    clear: left
+    
+    
+}
+.clearfix {
+  overflow: auto;
+  zoom: 1;
+}
+h2{
+    position:relative;
+}
+
+.padre{
+    width: 800px;
+    height: 300px;
+    border: 1px solid blue;
     
 }
 
-.clearfix { display: inline-block; }
 
 /* Pon tu código css aqui */
