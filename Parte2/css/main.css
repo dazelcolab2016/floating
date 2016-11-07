@@ -1,0 +1,23 @@
+.amarillo{
+background-color: yellow;
+    
+}
+
+.azul{
+    
+    background-color:blue;
+}
+.rojo{
+    
+    background-color:red;
+    
+}
+
+div{
+    width: 200px;
+    height: 100px;
+    float: left;
+    
+}
+
+/* Pon tu código css aqui */
